@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rickyporto/static/css/main.850f886a.css",
-    "main.js": "/rickyporto/static/js/main.223021ff.js",
-    "static/media/fotoprofile.png": "/rickyporto/static/media/fotoprofile.7587893c8e6edddcce53.png",
-    "static/media/test.png": "/rickyporto/static/media/test.295bc73ca3abd360b129.png",
-    "static/media/CV (1).pdf": "/rickyporto/static/media/CV (1).a40e60a020bbd7881349.pdf",
-    "static/media/kosbujang.jpg": "/rickyporto/static/media/kosbujang.ec97cd82b9bac4504c1f.jpg",
-    "static/media/cliniconline.png": "/rickyporto/static/media/cliniconline.cac13cb26c83495efb75.png",
-    "static/media/Jadwal.jpg": "/rickyporto/static/media/Jadwal.c6307e078e1341807acd.jpg",
-    "index.html": "/rickyporto/index.html",
-    "main.850f886a.css.map": "/rickyporto/static/css/main.850f886a.css.map",
-    "main.223021ff.js.map": "/rickyporto/static/js/main.223021ff.js.map"
+    "main.css": "/RickyPorto/static/css/main.850f886a.css",
+    "main.js": "/RickyPorto/static/js/main.27fd4af6.js",
+    "static/media/fotoprofile.png": "/RickyPorto/static/media/fotoprofile.7587893c8e6edddcce53.png",
+    "static/media/test.png": "/RickyPorto/static/media/test.295bc73ca3abd360b129.png",
+    "static/media/CV (1).pdf": "/RickyPorto/static/media/CV (1).a40e60a020bbd7881349.pdf",
+    "static/media/kosbujang.jpg": "/RickyPorto/static/media/kosbujang.ec97cd82b9bac4504c1f.jpg",
+    "static/media/cliniconline.png": "/RickyPorto/static/media/cliniconline.cac13cb26c83495efb75.png",
+    "static/media/Jadwal.jpg": "/RickyPorto/static/media/Jadwal.c6307e078e1341807acd.jpg",
+    "index.html": "/RickyPorto/index.html",
+    "main.850f886a.css.map": "/RickyPorto/static/css/main.850f886a.css.map",
+    "main.27fd4af6.js.map": "/RickyPorto/static/js/main.27fd4af6.js.map"
   },
   "entrypoints": [
     "static/css/main.850f886a.css",
-    "static/js/main.223021ff.js"
+    "static/js/main.27fd4af6.js"
   ]
 }
